@@ -5,7 +5,10 @@
     <groupId>org.poseidon.hephaestus</groupId>
     <artifactId>mybatis-small</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <modules>
+        <module>mybatis-small-01</module>
+    </modules>
+    <packaging>pom</packaging>
 
     <name>mybatis-small</name>
     <url>http://maven.apache.org</url>
